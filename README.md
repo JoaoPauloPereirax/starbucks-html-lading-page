@@ -17,7 +17,7 @@
 <br>
 
 <p align="center">
-  <img alt="pizzas" src="./assets/images/image.png" width="100%">
+  <img alt="Starbucks" src="./assets/images/image.png" width="100%">
 </p>
 
 ## :page_with_curl: About
@@ -46,8 +46,6 @@ Then merge your pull request, you can now delete your branch.
 
 ## :pencil: Author
 
-<table>
-  <tr>
-    <td align="center"><a href="https://github.com/JoaoPauloPereirax"><img src="https://avatars0.githubusercontent.com/u/68456831?s=400&u=27ce6a65a7d84906d6955d58c660c00d7cfa14a0&v=4" width="100px;" alt=""/><br /><sub><b>João Paulo Pereira</b></sub></a><br /></td>
-  <tr>
-</table>
+<p align="center">
+  <a href="https://github.com/JoaoPauloPereirax"><img src="https://avatars0.githubusercontent.com/u/68456831?s=400&u=27ce6a65a7d84906d6955d58c660c00d7cfa14a0&v=4" width="100px;" alt=""/><br /><sub><b>João Paulo Pereira</b></sub></a><br />
+</p>
