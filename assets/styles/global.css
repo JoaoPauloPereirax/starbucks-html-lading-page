@@ -6,6 +6,7 @@ font-family: 'Oswald', sans-serif;
 @import './header.css';
 @import './banner.css';
 @import './area--one.css';
+@import './area-two.css';
 
 body{
    font-family: 'Open Sans', sans-serif;
@@ -47,6 +48,7 @@ h2{
    border: 2px solid #454545;
    border-radius: 3px;
    text-decoration: none;
+   color: #454545;
 }
 
 .button:hover{
