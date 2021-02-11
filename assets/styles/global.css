@@ -8,6 +8,7 @@ font-family: 'Oswald', sans-serif;
 @import './area--one.css';
 @import './area-two.css';
 @import './area-three.css';
+@import './area--for.css';
 
 body{
    font-family: 'Open Sans', sans-serif;
@@ -45,7 +46,7 @@ h2{
 
 .button{
    display: inline-block;
-   padding: 10px;
+   padding: 10px 30px;
    border: 2px solid #454545;
    border-radius: 3px;
    text-decoration: none;
