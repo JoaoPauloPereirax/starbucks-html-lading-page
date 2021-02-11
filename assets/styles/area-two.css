@@ -5,6 +5,10 @@
 .area--two--content{
    padding: 100px;
 }
+.area--two--text{
+   margin-bottom: 50px;
+   line-height: 25px;
+}
 .area--two--img1{
    height: 450px;
    background-image: url('../images/f4.jpg');
@@ -23,6 +27,3 @@
    margin-bottom: 30px;
 }
 
-.area--two--text{
-   margin-bottom: 50px;
-}
