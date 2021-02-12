@@ -9,6 +9,7 @@ font-family: 'Oswald', sans-serif;
 @import './area-two.css';
 @import './area-three.css';
 @import './area--for.css';
+@import './footer.css';
 
 body{
    font-family: 'Open Sans', sans-serif;
@@ -57,3 +58,11 @@ h2{
    color: #fff;
    background-color: #454545;
 }
+
+.area--five{
+   background-image: url('../images/bg4.jpg');
+   background-size: cover;
+   background-position: center;
+   height: 600px;
+}
+
