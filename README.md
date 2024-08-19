@@ -31,6 +31,12 @@ Project developed in the HTML5 and CSS3 course in [B7WEB](https://b7web.com.br/f
 
 ## :heart_eyes: How to Use
 
+SASS
+
+```
+sass assets/styles/sass:assets/styles/css --watch
+```
+
 #### 💻 Frontend
 
 See how the Frontend works and how to use in this page: [Frontend](https://github.com/JoaoPauloPereirax/starbucks-html-lading-page.git)

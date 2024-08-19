@@ -14,7 +14,7 @@ body{
     }
     
     .bar{
-       background-color: var(--secont-color);
+       background-color: red;
        width: 168px;
        height: 22px;
     }
@@ -47,7 +47,7 @@ body{
     }
     
     .button:hover{
-       color: var(--primary-color);
+       color: red;
        background-color: #454545;
     }
     
