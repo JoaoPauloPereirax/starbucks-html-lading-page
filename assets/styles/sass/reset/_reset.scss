@@ -47,12 +47,12 @@ body{
     }
     
     .button:hover{
-       color: #fff;
+       color: var(--primary-color);
        background-color: #454545;
     }
     
     .area--five{
-       background-image: url('../images/bg4.jpg');
+       background-image: url('../../images/bg4.jpg');
        background-size: cover;
        background-position: center;
        height: 600px;
