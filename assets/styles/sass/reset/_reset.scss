@@ -1,3 +1,4 @@
+
 *{
        margin: 0;
        padding: 0;
@@ -14,7 +15,7 @@ body{
     }
     
     .bar{
-       background-color: red;
+       background-color: $secont-color;
        width: 168px;
        height: 22px;
     }
@@ -40,15 +41,15 @@ body{
     .button{
        display: inline-block;
        padding: 10px 30px;
-       border: 2px solid #454545;
+       border: 2px solid $button-border-color;
        border-radius: 3px;
        text-decoration: none;
-       color: #454545;
+       color: $button-border-color;
     }
     
     .button:hover{
-       color: red;
-       background-color: #454545;
+       color: $primary-color;
+       background-color: $button-hover-background-color;
     }
     
     .area--five{
