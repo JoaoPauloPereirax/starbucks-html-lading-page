@@ -3,3 +3,57 @@
        padding: 0;
        box-sizing: border-box;
 }
+
+body{
+       font-family: 'Open Sans', sans-serif;
+}
+
+.container{
+       max-width: 1140px;
+       margin: auto;
+    }
+    
+    .bar{
+       background-color: #006341;
+       width: 168px;
+       height: 22px;
+    }
+    
+    h1{
+       font-family: 'Oswald', sans-serif;
+       font-size: 95px;
+       font-weight: bold;
+       line-height: 95px;
+       margin:0;
+       margin-bottom: 30px;
+    }
+    
+    h2{
+       font-family: 'Oswald', sans-serif;
+       font-size: 35px;
+       font-weight: bold;
+       margin: 0;
+       line-height: 45px;
+       margin: 20px 0;
+    }
+    
+    .button{
+       display: inline-block;
+       padding: 10px 30px;
+       border: 2px solid #454545;
+       border-radius: 3px;
+       text-decoration: none;
+       color: #454545;
+    }
+    
+    .button:hover{
+       color: #fff;
+       background-color: #454545;
+    }
+    
+    .area--five{
+       background-image: url('../images/bg4.jpg');
+       background-size: cover;
+       background-position: center;
+       height: 600px;
+    }
